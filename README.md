@@ -1,2 +1,6 @@
 # hello-world
-primeiro repositório
+
+Olá, pessoas!!
+
+Esse é meu primeiro repositório, estou aprendendo como fazer.
+
